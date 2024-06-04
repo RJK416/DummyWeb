@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Source\\Repos\\DummyWeb\\SabininaDummy\\SabininaDummy.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Source\\Repos\\DummyWeb2\\SabininaDummy\\SabininaDummy.csproj",
       "projectName": "SabininaDummy",
-      "projectPath": "C:\\Users\\user\\Source\\Repos\\DummyWeb\\SabininaDummy\\SabininaDummy.csproj",
+      "projectPath": "C:\\Users\\user\\Source\\Repos\\DummyWeb2\\SabininaDummy\\SabininaDummy.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Source\\Repos\\DummyWeb\\SabininaDummy\\obj\\",
+      "outputPath": "C:\\Users\\user\\Source\\Repos\\DummyWeb2\\SabininaDummy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
